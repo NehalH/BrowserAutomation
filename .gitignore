@@ -1,0 +1,22 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled output
+bin/
+
+# Libraries
+lib/
+
+# IDE-specific files
+.metadata/
+*.launch
+*.iml
+.idea/
+.vscode/
+
+# Logs and reports
+log/
+target/
+test-output/
